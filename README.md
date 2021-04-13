@@ -36,8 +36,6 @@ I write about AI, machine learning, philosophy and UX.
  
 I started [Dasein AI](https://sein.ai) because I believe AI should complement, **not** replace, human intelligence.  Constructing knowledge through interaction is  an interesting design challenge that requires an interdisciplinary approach.
 
----
-
 
 ### Clients
 
