@@ -4,17 +4,14 @@
   <a href="#"><img width="250" align='right' src="#"></a>
 </p>
 
-
-I'm Zac; a Designer, Engineer and Researcher specializing in human-centered AI.  <br/> By night, I'm a grad student in CS at Georgia Tech where I focus on human-centered AI.  <br/> My day job is the founder/CEO of Dasein AI.  Dasein is a design consultancy that helps companies build human-centered AI-enabled products.  Drop me a line...
+### About
+I'm Zac; a Designer, Engineer and Researcher specializing in human-centered AI.  <br/>I'm the founder and CEO of Dasein AI, an interdisciplinary design consultancy that helps companies build human-centered AI-enabled products.  I'm also a grad student in CS at Georgia Tech where I focus on human-centered AI.  <br/>Drop me a line...
 
 <p align='left'>
 <a href="https://medium.com/@ZacTaschdjian"><img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/taschdjian/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:zac@sein.ai"><img height="30" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </p>
-
-
-  ---
   
   <p>
   <a href="#"><img width="300" align='right' src="#"></a>
@@ -34,10 +31,8 @@ I write about AI, machine learning, philosophy and UX.
   <img width="250" align='left' src="https://github.com/tasjian/tasjian/blob/main/logo.png?raw=true">
 </p>
  
-I started [Dasein AI](https://sein.ai) because I believe AI should complement, **not** replace, human intelligence.  Constructing knowledge through interaction is  an interesting design challenge that requires an interdisciplinary approach.
+I started [Dasein AI](https://sein.ai) because I believe AI should complement, **not** replace, human intelligence.  Constructing knowledge through interaction is  an interesting design challenge that requires an interdisciplinary approach.  Here are some of awesome companies we've worked with:
 
-
-### Clients
 
 
 
