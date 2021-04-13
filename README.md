@@ -20,7 +20,10 @@ I'm Zac; a Designer, Engineer and Researcher specializing in human-centered AI. 
   <img width="250" align='left' src="https://github.com/tasjian/tasjian/blob/main/logo.png?raw=true">
 </p>
  
-I started [Dasein AI](https://sein.ai) because I believe AI should complement, **not** replace, human intelligence.  AI is great for helping people extract knowledege from data.  But useful knowledge, like understanding cause and effect in complex use cases, is constructed through interaction.  People must be able to explore, query, and drill into the data for it to be useful.  That's a problem of HCI and UX design.  We draw on cognitive psychology, philosophy of mind, linguistics and other social sciences to optimize the process of working with AI.    
+I started [Dasein AI](https://sein.ai) because I believe AI should complement, **not** replace, human intelligence.  Knowledge is constructed through interaction and that's a design challenge. 
+
+---
+
 
 <p>
   <a href="#"><img width="300" align='right' src="#"></a>
@@ -37,9 +40,11 @@ I write about AI, machine learning, philosophy and UX.
 
 
 <details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <summary><b>:brain: &nbsp;Tools</b></summary>
   <br/>
 
 ![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
 </details>
----
+
+
+
