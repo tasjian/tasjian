@@ -15,6 +15,20 @@ I'm Zac; a Designer, Engineer and Researcher specializing in human-centered AI. 
 
 
   ---
+  
+  <p>
+  <a href="#"><img width="300" align='right' src="#"></a>
+</p>
+
+### Research interests, Writing and Publications
+
+I write about AI, machine learning, philosophy and UX.
+
+
+- My most recent publication for the HCI International '20 Conference, ["Why did the Robot Cross the Road? A User Study of Explanation in Human-Robot Interaction"](https://arxiv.org/abs/2012.00078) is on Arxiv.
+- https://medium.com/@ZacTaschdjian
+
+---
  
 <p>
   <img width="250" align='left' src="https://github.com/tasjian/tasjian/blob/main/logo.png?raw=true">
@@ -25,17 +39,12 @@ I started [Dasein AI](https://sein.ai) because I believe AI should complement, *
 ---
 
 
-<p>
-  <a href="#"><img width="300" align='right' src="#"></a>
-</p>
-
-### Research interests, Writing and Publications 🌱
-
-I write about AI, machine learning, philosophy and UX.
+### Clients
 
 
-- My most recent publication for the HCI International '20 Conference, ["Why did the Robot Cross the Road? A User Study of Explanation in Human-Robot Interaction"](https://arxiv.org/abs/2012.00078) is on Arxiv.
-- https://medium.com/@ZacTaschdjian
+
+
+---
 
 
 
