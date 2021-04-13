@@ -20,7 +20,7 @@ I'm Zac; a Designer, Engineer and Researcher specializing in human-centered AI. 
   <img width="250" align='left' src="https://github.com/tasjian/tasjian/blob/main/logo.png?raw=true">
 </p>
  
-I started [Dasein AI](https://sein.ai) because I believe AI should complement, **not** replace, human intelligence.  Knowledge is constructed through interaction and that's a design challenge. 
+I started [Dasein AI](https://sein.ai) because I believe AI should complement, **not** replace, human intelligence.  Constructing knowledge through interaction is  an interesting design challenge that requires an interdisciplinary approach.
 
 ---
 
@@ -40,11 +40,20 @@ I write about AI, machine learning, philosophy and UX.
 
 
 <details>
-  <summary><b>:brain: &nbsp;Tools</b></summary>
+  <summary><b>&nbsp;Selected Tools</b></summary>
   <br/>
 
-![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
+![Flask](	https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 </details>
+
+
 
 
 
