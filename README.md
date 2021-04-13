@@ -7,6 +7,8 @@
 ### About
 I'm Zac; a Designer, Engineer and Researcher specializing in human-centered AI.  <br/>I'm the founder and CEO of Dasein AI, an interdisciplinary design consultancy that helps companies build human-centered AI-enabled products.  I'm also a grad student in CS at Georgia Tech where I focus on human-centered AI.  <br/>Drop me a line...
 
+### Contact
+
 <p align='left'>
 <a href="https://medium.com/@ZacTaschdjian"><img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/taschdjian/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
