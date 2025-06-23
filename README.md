@@ -5,7 +5,7 @@
 </p>
 
 ### About
-I'm Zac; a Designer, Engineer and Researcher specializing in human-centered AI.  <br/>I'm the founder and CEO of Dasein AI, an interdisciplinary design consultancy that helps companies build human-centered AI-enabled products.  I'm also a grad student in CS at Georgia Tech where I focus on human-centered AI.  <br/>Drop me a line...
+I'm Zac; a Product Manager, Designer, and Researcher specializing in human-centered AI.  <br/>I'm the founder and CEO of Dasein AI, an interdisciplinary design consultancy that helps companies build human-centered AI-enabled products.  I'm also a grad student in CS at Georgia Tech where I focus on human-centered AI.  <br/>Drop me a line...
 
 ### Contact
 
